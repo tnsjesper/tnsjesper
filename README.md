@@ -28,7 +28,7 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -67,7 +67,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 - **Discord:** [tnsjesper](https://discord.com/users/850470027026759690)
 - **E-mail:** contact@tnsjesper.me
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/tnsjesper/tnsjesper)
+Project Link: [https://github.com/tnsjesper/tnsjesper](https://github.com/tnsjesper/tnsjesper)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
