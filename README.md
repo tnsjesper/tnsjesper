@@ -67,6 +67,13 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 - **Discord:** [tnsjesper](https://discord.com/users/850470027026759690)
 - **E-mail:** contact@tnsjesper.me
 
+
+## You can contact me on Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/850470027026759690)](https://discord.com/users/850470027026759690)
+
+
+
+
 Project Link: [https://github.com/tnsjesper/tnsjesper](https://github.com/tnsjesper/tnsjesper)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
