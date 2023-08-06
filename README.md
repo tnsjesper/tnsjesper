@@ -68,6 +68,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 - **E-mail:** contact@tnsjesper.me
 
 
+## Support
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T5NXZPL)
+
 ## You can contact me on Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/850470027026759690)](https://discord.com/users/850470027026759690)
 
