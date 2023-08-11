@@ -11,7 +11,6 @@
   <h3 align="center">tnsjesper aka Jesper</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
     <br />
     <a href="https://github.com/tnsjesper/tnsjesper/wiki"><strong>Explore the docs »</strong></a>
     <br />
