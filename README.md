@@ -65,6 +65,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+## Spotify
+![Spotify Stats](https://github.com/tnsjesper/tnsjesper/blob/main/github-metrics.svg)
+
+
 
 
 
