@@ -66,7 +66,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 ## Spotify
-![Spotify Stats](https://github.com/tnsjesper/tnsjesper/blob/main/github-metrics.svg)
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31yiz43hrnlyphbyvj7glr5zj22a&unique={true|1|on|yes})
 
 
 
