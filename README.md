@@ -38,6 +38,12 @@
 [![Git](https://img.shields.io/badge/git-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/tnsjesper)
 
 
+## Stats
+
+[![tnsjesper's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnsjesper)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!-- CONTACT -->
 ## Contact
 
