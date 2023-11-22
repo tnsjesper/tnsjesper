@@ -4,14 +4,21 @@
 ## Life
 
 Hello Friends
-I am Jesper known on the internet as tnsjesper. I have been spawned on the internet since 2021 and have been active as a developer since 2022. I develop primarily in JS and the Web (Web Developer). I'm currently learning Kotlin, Python and C# (.NET and Blazor - C++). Additional skills Java, TS, SQL, MongoDB, Next.js, Node.js, Minecraft, Discord, DevOps, some docker (pterodactyl), Linux, and more.
+I am Jesper known on the internet as tnsjesper. 
+I have been spawned on the internet since 2021 and have been active as a developer since 2022. 
+I develop primarily in JS and the Web (Web Developer). 
+I'm currently learning Kotlin, Python and C# (.NET and Blazor - C++). 
+Additional skills Java, TS, SQL, MongoDB, Next.js, Node.js, Minecraft, Discord, DevOps, some docker (pterodactyl), Linux, and more.
+
 
 **My Story**:
 I live in Germany (SH) and am in the 10th grade. In my free time I work on a farm. Otherwise, I'm mostly developing and gaming on the PC.
 
+
 **My favorite games**: Minecraft (Server: crystopia.net), Satisfactory, Bloons TD 6, and some other Steam games
 
 **Know Code**: JetBrains Toolbox, VS Code, Visual Studio, GitHub, Git
+
 
 ## Tech Stack:
 
