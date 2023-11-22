@@ -1,18 +1,17 @@
 
 <a name="readme-top"></a>
 
+## Life
 
-<br />
-<div align="center">
-  <a href="https://github.com/tnsjesper">
-    <img src="jesper-image.png" alt="Logo" width="80" height="80">
-  </a>
+Hello Friends
+I am Jesper known on the internet as tnsjesper. I have been spawned on the internet since 2021 and have been active as a developer since 2022. I develop primarily in JS and the Web (Web Developer). I'm currently learning Kotlin, Python and C# (.NET and Blazor - C++). Additional skills Java, TS, SQL, MongoDB, Next.js, Node.js, Minecraft, Discord, DevOps, some docker (pterodactyl), Linux, and more.
 
-  <h3 align="center">tnsjesper aka Jesper</h3>
+**My Story**:
+I live in Germany (SH) and am in the 10th grade. In my free time I work on a farm. Otherwise, I'm mostly developing and gaming on the PC.
 
-</div>
+**My favorite games**: Minecraft (Server: crystopia.net), Satisfactory, Bloons TD 6, and some other Steam games
 
-
+**Know Code**: JetBrains Toolbox, VS Code, Visual Studio, GitHub, Git
 
 ## Tech Stack:
 
@@ -44,22 +43,18 @@
 
 
 
-<!-- CONTACT -->
-## Contact
-
-- **Twitter:** [@tnsjesper](https://twitter.com/StckOverflw)
-- **Discord:** [tnsjesper](https://discord.com/users/850470027026759690)
-- **E-mail:** contact@tnsjesper.me
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Support
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T5NXZPL)
 
-## You can contact me on Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/850470027026759690)](https://discord.com/users/850470027026759690)
+## Social Media
+Discord: [tnsjesper](https://discord.com/users/850470027026759690) <br />
+Twitter: [tnsjesper](https://twitter.com/tnsjesper) <br />
+Twitch: [tnsjesper](https://twitch.tv/tnsjesper) <br />
+YouTube: [tnsjesper](https://youtube.com/@tnejesper) <br />
+
 
 <!-- LICENSE -->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -69,12 +64,6 @@
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## Spotify
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31yiz43hrnlyphbyvj7glr5zj22a&unique={true|1|on|yes})
-
-
 
 
 
