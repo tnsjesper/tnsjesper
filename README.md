@@ -1,7 +1,8 @@
 
 <a name="readme-top"></a>
 
-## Life <p align="right">(<a href="#readme-top">back to top</a>)</p>
+## Life 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 Hello Friends
 I am Jesper known on the internet as tnsjesper. 
@@ -20,7 +21,8 @@ I live in Germany (SH) and am in the 10th grade. In my free time I work on a far
 **Know Code**: JetBrains Toolbox, VS Code, Visual Studio, GitHub, Git
 
 
-## Tech Stack: <p align="right">(<a href="#readme-top">back to top</a>)</p>
+## Tech Stack: 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/tnsjesper)
 [![SQL](https://img.shields.io/badge/mysql-%23E34F26.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/tnsjesper)
@@ -44,17 +46,20 @@ I live in Germany (SH) and am in the 10th grade. In my free time I work on a far
 [![Git](https://img.shields.io/badge/git-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/tnsjesper)
 
 
-## Stats <p align="right">(<a href="#readme-top">back to top</a>)</p>
+## Stats 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 [![tnsjesper's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnsjesper)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-## Support <p align="right">(<a href="#readme-top">back to top</a>)</p>
+## Support 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T5NXZPL)
 
-## Social Media
+## Social Media 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 Discord: [tnsjesper](https://discord.com/users/850470027026759690) <br />
 Twitter: [tnsjesper](https://twitter.com/tnsjesper) <br />
 Twitch: [tnsjesper](https://twitch.tv/tnsjesper) <br />
