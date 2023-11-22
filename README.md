@@ -1,7 +1,7 @@
 
 <a name="readme-top"></a>
 
-## Life
+## Life <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 Hello Friends
 I am Jesper known on the internet as tnsjesper. 
@@ -11,7 +11,7 @@ I'm currently learning Kotlin, Python and C# (.NET and Blazor - C++).
 Additional skills Java, TS, SQL, MongoDB, Next.js, Node.js, Minecraft, Discord, DevOps, some docker (pterodactyl), Linux, and more.
 
 
-**My Story**:
+**My Story**: 
 I live in Germany (SH) and am in the 10th grade. In my free time I work on a farm. Otherwise, I'm mostly developing and gaming on the PC.
 
 
@@ -20,7 +20,7 @@ I live in Germany (SH) and am in the 10th grade. In my free time I work on a far
 **Know Code**: JetBrains Toolbox, VS Code, Visual Studio, GitHub, Git
 
 
-## Tech Stack:
+## Tech Stack: <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/tnsjesper)
 [![SQL](https://img.shields.io/badge/mysql-%23E34F26.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/tnsjesper)
@@ -44,15 +44,13 @@ I live in Germany (SH) and am in the 10th grade. In my free time I work on a far
 [![Git](https://img.shields.io/badge/git-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/tnsjesper)
 
 
-## Stats
+## Stats <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 [![tnsjesper's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnsjesper)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Support
+## Support <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T5NXZPL)
 
@@ -63,19 +61,5 @@ Twitch: [tnsjesper](https://twitch.tv/tnsjesper) <br />
 YouTube: [tnsjesper](https://youtube.com/@tnejesper) <br />
 
 
-<!-- LICENSE -->
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-Project Link: [https://github.com/tnsjesper/tnsjesper](https://github.com/tnsjesper/tnsjesper)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
