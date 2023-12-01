@@ -60,10 +60,10 @@ I live in Germany (SH) and am in the 10th grade. In my free time I work on a far
 
 ## Social Media 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-Discord: [tnsjesper](https://discord.com/users/850470027026759690) <br />
-Twitter: [tnsjesper](https://twitter.com/tnsjesper) <br />
-Twitch: [tnsjesper](https://twitch.tv/tnsjesper) <br />
-YouTube: [tnsjesper](https://youtube.com/@tnejesper) <br />
+Discord: <a href="https://discord.com/users/850470027026759690">tnsjesper</a> <br />
+Twitter: <a href="https://twitter.com/tnsjesper">tnsjesper</a> <br />
+Twitch: <a href="https://twitch.tv/tnsjesper">tnsjesper</a> <br />
+YouTube: <a href="https://youtube.com/@tnejesper">tnsjesper</a> <br />
 
 
 
