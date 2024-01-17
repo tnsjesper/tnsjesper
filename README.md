@@ -8,9 +8,9 @@
   - [TNSStudio](https://tnsstudio.net)
   - [Crystopia](https://crystopia.net)
   - [DisBot](https://disbot.xyz)
-<br>
-  - [Endelon Hosting](https://endelon-hosting.de)
 
+  - [Endelon Hosting](https://endelon-hosting.de)
+<br>
 I Develop some Projekts and things... 
 Knowledge: JS, Web, Devops, Java, Kotlin, C#, Docker, Windows, Linux, (see Tech Stack)
 
