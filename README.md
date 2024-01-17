@@ -66,5 +66,7 @@ Twitch: <a href="https://twitch.tv/tnsjesper">tnsjesper</a> <br />
 YouTube: <a href="https://youtube.com/@tnejesper">tnsjesper</a> <br />
 
 
-
+<p align="right">
+![tnsjesper](https://komarev.com/ghpvc/?username=tnsjesper)
+</p>
 
