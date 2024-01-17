@@ -5,21 +5,22 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 Hello Friends
-I am Jesper known on the internet as tnsjesper. 
-I have been spawned on the internet since 2021 and have been active as a developer since 2022. 
-I develop primarily in JS and the Web (Web Developer). 
-I'm currently learning Kotlin, Python and C# (.NET and Blazor - C++). 
-Additional skills Java, TS, SQL, MongoDB, Next.js, Node.js, Minecraft, Discord, DevOps, docker (pterodactyl, portainer, default), Linux, and more.
+I'm Jesper life in German and member of 
+- [TNSStudio](https://tnsstudio.net)
+- [Crystopia](https://crystopia.net)
+- [DisBot](https://disbot.xyz)
 
+- [Endelon Hosting](https://endelon-hosting.de)
 
-**My Story**: 
-I live in Germany (SH) and am in the 10th grade. In my free time I work on a farm. Otherwise, I'm mostly developing and gaming on the PC.
+I Develop some Projekts and things... 
+Knowledge: JS, Web, Devops, Java, Kotlin, C#, Docker, Windows, Linux, (see Tech Stack)
 
+Some of Me...
+I'm 16 and Programm since 2022 my main Languages are JS and Web(HTML, CSS, PHP, Next, React) and Java. I love to learn new languaes... (Current: C#, Kotlin, more Py)! 
+If you want to Contact me: contact@tnsjesper.xyz. 
 
-**My favorite games**: Minecraft (Server: crystopia.net), Satisfactory, Bloons TD 6, and some other Steam games
-
-**Know Code**: JetBrains Toolbox, VS Code, Visual Studio, GitHub, Git
-
+In my free time i help on a Farm  and work as a Hobby Dev. I'm in the 10th grade and after that I will train as an IT assistant up to the 12th grade and probably get the general "university entrance qualification".
+So many more about me but not enough Space here... Here is a overview 😁
 
 ## Tech Stack: 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -51,6 +52,7 @@ I live in Germany (SH) and am in the 10th grade. In my free time I work on a far
 
 [![tnsjesper's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnsjesper)](https://github.com/anuraghazra/github-readme-stats)
 
+![tnsjesper](https://komarev.com/ghpvc/?username=tnsjesper)
 
 
 ## Support 
@@ -65,8 +67,10 @@ Twitter: <a href="https://twitter.com/tnsjesper">tnsjesper</a> <br />
 Twitch: <a href="https://twitch.tv/tnsjesper">tnsjesper</a> <br />
 YouTube: <a href="https://youtube.com/@tnejesper">tnsjesper</a> <br />
 
+# My Discords:
+[Some of ME](https://discord.gg/PMmReYARZU) [NEW] <br>
+[TNSStudio.net Community](https://discord.gg/MYw8nghp2M) <br>
+[Crystopia.net Minecraft Server](https://discord.gg/ThWHftcGdu) <br>
+[DisBot Development](https://discord.gg/9VSH45ey) <br> 
 
-<p align="right">
-![tnsjesper](https://komarev.com/ghpvc/?username=tnsjesper)
-</p>
-
+See you peepoYay
