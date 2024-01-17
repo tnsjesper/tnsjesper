@@ -1,16 +1,15 @@
 
 <a name="readme-top"></a>
 
-## Life 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Hello Friends
-I'm Jesper life in German and member of 
-- [TNSStudio](https://tnsstudio.net)
-- [Crystopia](https://crystopia.net)
-- [DisBot](https://disbot.xyz)
 
-- [Endelon Hosting](https://endelon-hosting.de)
+👋 Hello Friends
+-> I'm Jesper life in German and member of 
+  - [TNSStudio](https://tnsstudio.net)
+  - [Crystopia](https://crystopia.net)
+  - [DisBot](https://disbot.xyz)
+<br>
+  - [Endelon Hosting](https://endelon-hosting.de)
 
 I Develop some Projekts and things... 
 Knowledge: JS, Web, Devops, Java, Kotlin, C#, Docker, Windows, Linux, (see Tech Stack)
