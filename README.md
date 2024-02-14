@@ -1,75 +1,74 @@
+## Welcome to my GitHub
 
-<a name="readme-top"></a>
+Here is a Place for all my Public and Privat projekts!
+
+About Me:
+
+Yes I'm Jesper aka tnsjesper. I love Coding and Playing Computer Games! 
+I Spawn on the Internet in 2019 or maybe on a other day... ?!
+I begin Developing at 2022 and make Projkets since 2021 and some smal Projkets before.
+To me? 
+I Code and Play Video Games and activ at a Farm...
+make a Miencraft Network and some around Minecraft. Code a Public Discord Bot and come from Germany. (And Supporter for a [Free Hosting](https://endelon.link))
+
+And a Member Of:
+- [Endelon Hosting](https://endelon.link)
+- [TNSStudio](https://tnsstudio.net)
+- [Crystopia](https://crystopia.net)
+- [DisBot](https://disbot.xyz)
+
+## Tech Things
+
+**Tools**:
+
+<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" /><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+            <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+            <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+            <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
+            <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
+            <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/portainer/portainer-original-wordmark.svg" />
+            <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
+            <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original-wordmark.svg" />
+            <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+            <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+            <img  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original-wordmark.svg" />
+            <img  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" />
+            <img  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
+            <img  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
+            <img  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" />
+            <img  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+            <img  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+     <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original-wordmark.svg" />
+          
+
+**Languages**:          
+          
+  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" /><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" /><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+            <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" />
+            <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+            <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+            <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /><img height="30" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+          
+          
+          
+          
+            
+  (Learning Kotlin, C# and more Java | AND new Go)
+
+**Other**:
+
+<img height="30" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" /> <img height="30" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> <img height="30" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" /> <img height="30" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" /><img height="30" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" /><img height="30" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg" /><img height="30" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" /><img height="30" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" />
+          
+
+## Stats
+
+[![tnsjesper's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnsjesper)](https://github.com/tnsjesper)
 
 
+## Social media
 
-👋 Hello Friends
--> I'm Jesper life in German and member of 
-  - [TNSStudio](https://tnsstudio.net)
-  - [Crystopia](https://crystopia.net)
-  - [DisBot](https://disbot.xyz)
-
-  - [Endelon Hosting](https://endelon-hosting.de)
-<br>
-I Develop some Projekts and things... 
-Knowledge: JS, Web, Devops, Java, Kotlin, C#, Docker, Windows, Linux, (see Tech Stack)
-
-Some of Me...
-I'm 16 and Programm since 2022 my main Languages are JS and Web(HTML, CSS, PHP, Next, React) and Java. I love to learn new languaes... (Current: C#, Kotlin, more Py)! 
-If you want to Contact me: contact@tnsjesper.xyz. 
-
-In my free time i help on a Farm  and work as a Hobby Dev. I'm in the 10th grade and after that I will train as an IT assistant up to the 12th grade and probably get the general "university entrance qualification".
-So many more about me but not enough Space here... Here is a overview 😁
-
-## Tech Stack: 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/tnsjesper)
-[![SQL](https://img.shields.io/badge/mysql-%23E34F26.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/tnsjesper)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/tnsjesper)<br/>
-
-[![Discord.js](https://img.shields.io/badge/discord.js-%23E34F26.svg?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/tnsjesper)
-[![Minecraft](https://img.shields.io/badge/minecraft-6DA55F.svg?style=for-the-badge&logo=minecraft&logoColor=black)](https://github.com/tnsjesper)
-
-
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/tnsjesper)
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/tnsjesper)<br/>
-[![PHP](https://img.shields.io/badge/php-%231572B6.svg?style=for-the-badge&logo=php&logoColor=white)](https://github.com/tnsjesper)
-[![Python](https://img.shields.io/badge/python-6DA55F.svg?style=for-the-badge&logo=python&logoColor=white)](https://github.com/tnsjesper)
-[![Java](https://img.shields.io/badge/java-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white)](https://github.com/tnsjesper)<br/>
-
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/tnsjesper)<br/>
-
-
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://github.com/tnsjesper)
-[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/tnsjesper)<br/>
-[![Git](https://img.shields.io/badge/git-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/tnsjesper)
-[![Docker](https://img.shields.io/badge/docker-%231572B6.svg?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/tnsjesper)
-
-## Stats 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-[![tnsjesper's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnsjesper)](https://github.com/anuraghazra/github-readme-stats)
-
-![tnsjesper](https://komarev.com/ghpvc/?username=tnsjesper)
-
-
-## Support 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T5NXZPL)
-
-## Social Media 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-Discord: <a href="https://discord.com/users/850470027026759690">tnsjesper</a> <br />
-Twitter: <a href="https://twitter.com/tnsjesper">tnsjesper</a> <br />
-Twitch: <a href="https://twitch.tv/tnsjesper">tnsjesper</a> <br />
-YouTube: <a href="https://youtube.com/@tnejesper">tnsjesper</a> <br />
-
-# My Discords:
-[Some of ME](https://discord.gg/PMmReYARZU) [NEW] <br>
-[TNSStudio.net Community](https://discord.gg/MYw8nghp2M) <br>
-[Crystopia.net Minecraft Server](https://discord.gg/ThWHftcGdu) <br>
-[DisBot Development](https://discord.gg/9VSH45ey) <br> 
-
-See you peepoYay
+X:         [tnsjesper](https://x.com/tnsjesper)
+Youtube:   [tnsjesper](https://youtube.com/@tnsjesper)
+Discord:   [tnsjesper](https://discord.com/users/850470027026759690)
+Twitch:    [tnsjesper](https://twitch.tv/tnsjesper)
+Website:   [tnsjesper.xyz](https://tnsjesper.xyz)
