@@ -7,7 +7,7 @@ About Me:
 Yes I'm Jesper aka tnsjesper. I love Coding and Playing Computer Games! 
 I Spawn on the Internet in 2019 or maybe on a other day... ?!
 I begin Developing at 2022 and make Projkets since 2021 and some smal Projkets before.
-To me? 
+To me?  
 I Code and Play Video Games and activ at a Farm...
 make a Miencraft Network and some around Minecraft. Code a Public Discord Bot and come from Germany. (And Supporter for a [Free Hosting](https://endelon.link))
 
