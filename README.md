@@ -7,7 +7,7 @@ Since 2021, I've been tackling bigger projects alongside some earlier, smaller o
 When I'm not coding, I love playing video games and staying busy on my farm.
 
 And a Member Of:
-- [Endelon]([https://endelon.link](https://discord.gg/uHcArKT26q))
+- [Endelon](https://discord.gg/uHcArKT26q)
 - [TNSStudio](https://tnsstudio.net)
 - [Crystopia](https://crystopia.net)
 - [DisBot](https://disbot.xyz)
