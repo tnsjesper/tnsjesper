@@ -1,18 +1,13 @@
 ## Welcome to my GitHub
 
-Here is a Place for all my Public and Privat projekts!
-
-About Me:
-
-Yes I'm Jesper aka tnsjesper. I love Coding and Playing Computer Games! 
-I Spawn on the Internet in 2019 or maybe on a other day... ?!
-I begin Developing at 2022 and make Projkets since 2021 and some smal Projkets before.
-To me?  
-I Code and Play Video Games and activ at a Farm...
-make a Miencraft Network and some around Minecraft. Code a Public Discord Bot and come from Germany. (And Supporter for a [Free Hosting](https://endelon.link))
+Hi! I'm Jesper, or tnsjesper online.
+I'm a coding enthusiast with a passion for video games.
+I jumped into the online world in 2019 and began my development journey in 2022.
+Since 2021, I've been tackling bigger projects alongside some earlier, smaller ones.
+When I'm not coding, I love playing video games and staying busy on my farm.
 
 And a Member Of:
-- [Endelon Hosting](https://endelon.link)
+- [Endelon]([https://endelon.link](https://discord.gg/uHcArKT26q))
 - [TNSStudio](https://tnsstudio.net)
 - [Crystopia](https://crystopia.net)
 - [DisBot](https://disbot.xyz)
